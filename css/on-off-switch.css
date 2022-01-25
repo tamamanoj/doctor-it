@@ -1,0 +1,78 @@
+.on-off-switch{
+    position:relative;
+    cursor:pointer;
+    overflow:hidden;
+    user-select:none;
+}
+
+.on-off-switch-track{
+    position:absolute;
+    z-index:1;
+    background-color: #fff;
+    overflow:hidden;
+}
+
+/* semi transparent white overlay */
+.on-off-switch-track-white{
+    background-color:#FFF;
+    position:absolute;
+    opacity:0.2;
+    z-index:30;
+}
+/* Track for "on" state */
+.on-off-switch-track-on{
+    background-color:#ffffff;
+    position:absolute;
+    z-index:10;
+    overflow:hidden;
+}
+/* Track for "off" state */
+.on-off-switch-track-off{
+    position:absolute;
+    border-color:#CCC;
+    z-index:1;
+}
+
+.on-off-switch-thumb{
+    position:absolute;
+    z-index:2;
+    overflow:hidden;
+}
+
+.on-off-switch-thumb-shadow{
+    position:absolute;
+}
+
+
+.on-off-switch-thumb-color{
+    background-color: #0062d1;
+    position: absolute;
+    height: 24px !important;
+    width: 24px !important;
+    top: 2px !important;
+}
+
+.on-off-switch-thumb-off{
+    border-color:#AAA;
+    position:absolute;
+}
+.on-off-switch-thumb-on{
+    border-color:#008855;
+    z-index:10;
+}
+.on-off-switch-text{
+    width:100%;
+    position:absolute;
+    font-family:arial;
+    user-select:none;
+    font-size:10px;
+}
+
+.on-off-switch-text-on{
+    color:#a9a9a9;
+    text-align:left;
+}
+.on-off-switch-text-off{
+    color:#000;
+    text-align:right;
+}

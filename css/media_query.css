@@ -1,0 +1,2139 @@
+@media only screen and (min-width:2048px) {}
+
+@media only screen and (min-width:1600px) and (max-width:2047px) {
+	.banner_home::before {
+		left: 200px;
+		width: 35%;
+	}
+	
+}
+
+@media only screen and (min-width:1440px) and (max-width:1599px) {
+.banner_home::before {
+	left: 130px;
+	height: 100%;
+	width: 34%;
+}
+	
+}
+
+@media only screen and (min-width:1246px) and (max-width:1439px) {
+
+	
+.banner_home::before {
+	left: 30px;
+	height: 100%;
+	width: 41%;
+}
+	
+}
+
+
+@media only screen and (min-width:1171px) and (max-width:1245px) {
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+.banner_home::before {
+	left: 0;
+	height: 100%;
+	width: 41%;
+}
+.support ul li {
+	width: 31%;
+	flex: 0 0 31.5%;
+}	
+.services ul li {
+	width: 31%;
+	flex: 0 0 31%;
+	margin-right: 30px;
+}	
+	
+
+}
+@media only screen and (min-width:960px) and (max-width:1170px) {
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	
+/***************************
+	Nav header css START
+*****************************/	
+	#header {
+    	margin-left: 50px !important;
+	}
+	#header .navMenu ul {
+    	padding: 0 !important;
+	}
+	
+	#header .navMenu ul li a {
+		padding: 15px 13px !important;
+	}
+	
+	.search-wrapper.active .close {
+		right: -30px;
+	}
+	.heder_right {
+   	 	right: 40px;
+	}
+	
+	
+/***************************
+	Nav header css eND
+*****************************/		
+/***************************
+		Banner start here
+*****************************/	
+.banner_home img {
+		margin: 0 0 0 -790px;
+		width: 1650px;
+}	
+.banner_home::before {
+	left: 0;
+	width: 46%;
+}	
+.banner_product::before {
+		display:none;
+}
+.banner_home .caption {
+    padding: 0;
+    margin: 0;
+    width: 500px;
+}	
+
+	
+/***************************
+		Banner eND here
+*****************************/
+/***************************
+	support start here
+*****************************/
+.support ul li {
+	width: 25%;
+	flex: 0 0 24.6%;
+	}
+/***************************
+	support End here
+*****************************/	
+
+	
+/***************************
+	services_sec start here
+*****************************/
+.services {
+	height: auto;
+	padding: 80px 0 80px 0;
+}
+.services ul li {
+	width: 30.6%;
+	flex: 0 0 30.6%;
+}	
+	
+/***************************
+	services_sec End here
+*****************************/
+	
+
+	
+/***************************
+Infrastructure start  here
+*****************************/
+.infrastructure .infrastructure_details {
+	display: flex;
+	padding: 110px 0 0 0;
+}	
+	
+.infrastructure .infrastructure_details ul li:last-child {
+	margin-right: 80px;
+	margin-top: 10px;
+}	
+	
+.infrastructure .infrastructure_details ul:last-child li:last-child {
+	margin-left: 76px;
+	margin-top: 10px;
+}	
+/***************************
+Infrastructure End  here
+*****************************/	
+	
+	
+
+/***************************
+	map start
+*****************************/	
+.map ul li {
+    width: 40%;
+    flex: 0 0 85%;
+    display: flex;
+}
+	
+#map{
+	min-width:800px;
+	}	
+#map iframe{
+	height:450px;
+	}
+	
+	
+/***************************
+	map End
+*****************************/	
+	
+
+/***************************
+	Footer start
+*****************************/	
+.footer {
+    padding: 60px 0;
+}	
+.footer ul li .footer_logo {
+	width: 230px;
+	height: auto;
+	overflow: hidden;
+}	
+.footer ul li {
+	width: 28%;
+	margin-right: 30px;
+}	
+.footer ul li .social_sec ul {
+	padding-top: 10px;
+}	
+.footer ul li .footer_end_text p {
+    text-align: center;
+}	
+
+/***************************
+	Footer End
+*****************************/	
+}
+
+@media only screen and (min-width:769px) and (max-width:959px) {
+	    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	
+	/***************************
+	Nav header css START
+*****************************/	
+#header {
+	padding: 9px 0 0 !important;
+	float: right !important;
+	margin-left: 0 !important;
+}
+	
+/***************************
+	Nav header css eND
+*****************************/		
+/***************************
+		Banner start here
+*****************************/	
+.banner_home img {
+		margin: 0 0 0 -790px;
+		width: 1650px;
+}
+	
+.banner_home::before {
+	left: 0;
+	width: 46%;
+}	
+.banner_product::before {
+		display:none;
+}
+.banner_home .caption {
+	padding: 0;
+	margin: 0;
+	width: 344px;
+}
+h3.banner_home_heading span {
+	display: block;
+	font-size: 32px;
+	color: #fff;
+	font-weight: 800;
+	line-height: 47px;
+}	
+	
+	
+/***************************
+		Banner eND here
+*****************************/
+	
+/***************************
+	support start here
+*****************************/
+.support {
+	padding: 60px 0;
+	overflow: hidden;
+}	
+.support ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+	margin-top: 30px;
+}
+	
+	
+.support ul li {
+	width: 100%;
+	flex: 0 0 100%;
+	margin-right: 0;
+	box-sizing: border-box;
+	margin-bottom: 20px;
+}
+.banner_buttom.center {
+	margin: 15px auto 0;
+	width: 15%;
+}	
+	
+/***************************
+	support End here
+*****************************/		
+	
+	
+	
+/***************************
+	About section start
+*****************************/	
+.about_sec {
+	padding: 0 0 60px 0;
+	overflow: hidden;
+}
+.about_sec .wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}	
+.about_sec .about_text {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+	margin-bottom: 50px;
+}
+.about_sec .about_pic {
+	width: 364px;
+	height: 444px;
+	margin-left: 0;
+}	
+/***************************
+	About section End
+*****************************/
+/***************************
+	services_sec start here
+*****************************/
+.services {
+	height: auto;
+	padding: 60px 0;
+	background-image: none;
+	background-color: #e9e9ea;
+}
+.services ul {
+	display: flex;
+	flex-direction: column;
+	margin-top: 30px;
+	flex-wrap: wrap;
+}	
+.services ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+	margin-top: 30px;
+}	
+.services ul li:nth-child(2) {
+    margin-top: 30px;
+}	
+/***************************
+	services_sec End here
+*****************************/	
+
+/***************************
+	quote start  here
+*****************************/
+.quote {
+	padding: 30px 0;
+	background-image: none;
+	background-color: #424242;
+	height: auto ;
+}	
+.quote ul {
+	margin-top: 0px;
+}	
+.quote ul li h3 {
+	font-size: 30px;
+	color: #fff;
+	font-weight: 300;
+}
+	
+/***************************
+	quote End  here
+*****************************/	
+	
+/***************************
+Infrastructure start  here
+*****************************/
+.infrastructure {
+	padding: 60px 0;
+	overflow: hidden;
+}	
+	
+.infrastructure .infrastructure_details {
+	display: flex;
+	padding: 50px 0 0 0;
+	background: none;
+}
+	
+.infrastructure .infrastructure_details ul {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	width: 100%;
+	margin-right: 0;
+}	
+.infrastructure .infrastructure_details ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 30px;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	flex-direction: row-reverse;
+}	
+	
+.infrastructure .infrastructure_details ul li:first-child {
+	margin-right: 0;
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+	padding: 30px;
+	border-radius: 5px;
+}	
+.infrastructure .infrastructure_details ul li:last-child {
+	margin-right: 0;
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+	padding: 30px;
+	border-radius: 5px;
+}	
+	
+.infrastructure .infrastructure_details ul li .infrastructure_details_text {
+	overflow: hidden;
+	margin-left: 50px;
+	text-align: left;
+}
+.infrastructure .infrastructure_details ul:last-child li:first-child {
+	margin-left: 0;
+	margin-bottom: 11px;
+	justify-content: flex-end;
+}	
+.infrastructure .infrastructure_details ul:last-child li:last-child {
+	margin-left: 0;
+	margin-top: 10px;
+	justify-content: flex-end;
+}
+	
+/***************************
+Infrastructure End  here
+*****************************/		
+/***************************
+	Project End  here
+*****************************/
+.Project ul {
+	margin-top: 40px;
+}	
+	
+	
+/***************************
+	Project start  here
+*****************************/	
+	
+
+/***************************
+	contact  start  here
+*****************************/	
+.contact {
+	padding: 60px 0;
+	overflow: hidden;
+}
+.contact ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+	flex-wrap: wrap;
+	margin-top: 50px;
+}
+	
+.contact ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+}	
+	
+.contact ul li:last-child {
+	margin-right: 0;
+	width: 100%;
+	float: 0 0 100%;
+}	
+/***************************
+	contact  End  here
+*****************************/	
+	
+
+	
+	
+/***************************
+	Footer start
+*****************************/	
+.footer {
+    padding: 60px 0;
+}	
+.footer ul li {
+	text-align: left;
+	width: auto;
+	margin-right: 0;
+	vertical-align: top;
+	display: block;
+	margin-bottom: 40px;
+}
+.footer ul li:first-child {
+	margin-right: 0;
+}	
+.contact_us {
+	margin-bottom: 0 !important;
+}	
+/***************************
+	Footer End
+*****************************/	
+}
+
+@media only screen and (min-width:641px) and (max-width:768px) {
+
+	
+ .wrapper {
+   width: auto;
+   padding: 0 10px;
+  }
+	
+
+	
+/***************************
+	Top_header css End
+*****************************/
+.top_header .wrapper {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}	
+.top_header_left {
+	display: none;
+}
+.top_header .top_header_right {
+	margin-left: 0;
+}	
+.top_header .top_header_left ul, .top_header .top_header_right ul {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+.manu_header {
+	padding: 13px 0;
+	position: relative;
+}	
+	
+/***************************
+	Top_header css End
+*****************************/	
+	
+/***************************
+	Nav header css START
+*****************************/	
+#header {
+	padding: 10px 0 0 0 !important;
+	float: right !important;
+	margin-left: 0 !important;
+	margin-top: 0px;
+}
+	
+
+	
+/***************************
+	Nav header css eND
+*****************************/		
+/***************************
+		Banner start here
+*****************************/	
+.banner_home img {
+		margin: 0 0 0 -620px;
+		width: 1350px;
+}	
+.banner_home::before {
+	left: 0;
+	width: 46%;
+}	
+
+.banner_home .captionBox {
+	position: absolute;
+	width: 100%;
+	top: 50px;
+	left: 0;
+	right: 0;
+	z-index: 11;
+}	
+	
+.banner_home .caption {
+	padding: 0;
+	margin: 0;
+	width: 344px;
+}
+	
+h3.banner_home_heading span {
+	display: block;
+	font-size: 26px;
+	color: #fff;
+	font-weight: 800;
+	line-height: 40px;
+}
+.banner_buttom {
+	padding: 15px 30px;
+	font-size: 15px;
+	}
+/***************************
+		Banner eND here
+*****************************/
+/***************************
+	support start here
+*****************************/
+.support {
+	padding: 60px 0;
+	overflow: hidden;
+}	
+.support ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+	margin-top: 30px;
+}
+	
+	
+.support ul li {
+	width: 100%;
+	flex: 0 0 100%;
+	margin-right: 0;
+	box-sizing: border-box;
+	margin-bottom: 20px;
+}
+	
+.banner_buttom.center {
+	margin: 15px auto 0;
+	width: 15%;
+}		
+/***************************
+	support End here
+*****************************/		
+	
+	
+	
+/***************************
+	About section start
+*****************************/	
+.about_sec {
+	padding: 0 0 60px 0;
+	overflow: hidden;
+}
+.about_sec .wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}	
+.about_sec .about_text {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+	margin-bottom: 50px;
+}
+.about_sec .about_pic {
+    width: 364px;
+    height: 444px;
+    margin-left: auto;
+    border-radius: 10px;
+    overflow: hidden;
+}
+/***************************
+	About section End
+*****************************/
+/***************************
+	services_sec start here
+*****************************/
+.services {
+	height: auto;
+	padding: 60px 0;
+	background-image: none;
+	background-color: #e9e9ea;
+}
+.services ul {
+	display: flex;
+	flex-direction: column;
+	margin-top: 30px;
+	flex-wrap: wrap;
+}	
+.services ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+	margin-top: 30px;
+}	
+.services ul li:nth-child(2) {
+    margin-top: 30px;
+}	
+/***************************
+	services_sec End here
+*****************************/	
+
+/***************************
+	quote start  here
+*****************************/
+.quote {
+	padding: 30px 0;
+	background-image: none;
+	background-color: #424242;
+	height: auto ;
+}	
+.quote ul {
+	margin-top: 0px;
+}	
+.quote ul li h3 {
+	font-size: 30px;
+	color: #fff;
+	font-weight: 300;
+}
+	
+/***************************
+	quote End  here
+*****************************/	
+	
+/***************************
+Infrastructure start  here
+*****************************/
+.infrastructure {
+	padding: 60px 0;
+	overflow: hidden;
+}	
+	
+.infrastructure .infrastructure_details {
+	display: flex;
+	padding: 50px 0 0 0;
+	background: none;
+}
+	
+.infrastructure .infrastructure_details ul {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	width: 100%;
+	margin-right: 0;
+}	
+.infrastructure .infrastructure_details ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 30px;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	flex-direction: row-reverse;
+}	
+	
+.infrastructure .infrastructure_details ul li:first-child {
+	margin-right: 0;
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+	padding: 30px;
+	border-radius: 5px;
+}	
+.infrastructure .infrastructure_details ul li:last-child {
+	margin-right: 0;
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+	padding: 30px;
+	border-radius: 5px;
+}	
+	
+.infrastructure .infrastructure_details ul li .infrastructure_details_text {
+	overflow: hidden;
+	margin-left: 50px;
+	text-align: left;
+}
+.infrastructure .infrastructure_details ul:last-child li:first-child {
+	margin-left: 0;
+	margin-bottom: 11px;
+	justify-content: flex-end;
+}	
+.infrastructure .infrastructure_details ul:last-child li:last-child {
+	margin-left: 0;
+	margin-top: 10px;
+	justify-content: flex-end;
+}
+	
+/***************************
+Infrastructure End  here
+*****************************/		
+/***************************
+	Project End  here
+*****************************/
+.Project ul {
+	margin-top: 40px;
+}	
+	
+	
+/***************************
+	Project start  here
+*****************************/	
+	
+
+/***************************
+	contact  start  here
+*****************************/	
+.contact {
+	padding: 60px 0;
+	overflow: hidden;
+}
+.contact ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+	flex-wrap: wrap;
+	margin-top: 50px;
+}
+	
+.contact ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+}	
+	
+.contact ul li:last-child {
+	margin-right: 0;
+	width: 100%;
+	float: 0 0 100%;
+}	
+/***************************
+	contact  End  here
+*****************************/	
+	
+
+	
+	
+/***************************
+	Footer start
+*****************************/	
+.footer {
+    padding: 60px 0;
+}	
+.footer ul li {
+	text-align: left;
+	width: auto;
+	margin-right: 0;
+	vertical-align: top;
+	display: block;
+	margin-bottom: 40px;
+}
+.footer ul li:first-child {
+	margin-right: 0;
+}	
+.contact_us {
+	margin-bottom: 0 !important;
+}	
+/***************************
+	Footer End
+*****************************/	
+
+}
+
+@media only screen and (min-width:481px) and (max-width:640px) {
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+
+	/***************************
+	Top_header css End
+*****************************/
+.top_header .wrapper {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}	
+.top_header_left {
+	display: none;
+}
+.top_header .top_header_right {
+	margin-left: 0;
+}	
+.top_header .top_header_left ul, .top_header .top_header_right ul {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}	
+.top_header .top_header_right ul li {
+    margin: 0 13px;
+}	
+/***************************
+	Top_header css End
+*****************************/	
+	
+/***************************
+	Nav header css START
+*****************************/	
+#header {
+	padding: 10px 0 0 !important;
+	float: right !important;
+	margin-left: 0 !important;
+}
+.manu_header.scrolled {
+	padding-bottom: 20px;
+}	
+	
+/***************************
+	Nav header css eND
+*****************************/		
+/***************************
+		Banner start here
+*****************************/	
+.banner_home img {
+		margin: 0 0 0 -620px;
+		width: 1350px;
+}	
+	
+.banner_home::before {
+	left: 0;
+	width: 49%;
+}
+
+.banner_home .captionBox {
+	position: absolute;
+	width: 100%;
+	top: 50px;
+	left: 0;
+	right: 0;
+	z-index: 11;
+}	
+	
+.banner_home .caption {
+	padding: 0;
+	margin: 0;
+	width: 224px;
+}
+	
+h3.banner_home_heading span {
+	display: block;
+	font-size: 24px;
+	color: #fff;
+	font-weight: 800;
+	line-height: 40px;
+}
+.banner_buttom {
+	padding: 13px 20px;
+	font-size: 15px;
+}
+/***************************
+		Banner eND here
+*****************************/
+/***************************
+		heading start here
+*****************************/
+h2.heading_center {
+	font-size: 30px;
+}	
+h2.heading_left {
+	text-align: left;
+	font-size: 30px;
+}	
+	
+/***************************
+		heading eND here
+*****************************/	
+	
+/***************************
+	support start here
+*****************************/
+.support {
+	padding: 40px 0;
+	overflow: hidden;
+}	
+.support ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+	margin-top: 30px;
+}
+	
+	
+.support ul li {
+	width: 100%;
+	flex: 0 0 100%;
+	margin-right: 0;
+	box-sizing: border-box;
+	margin-bottom: 20px;
+}
+	
+.banner_buttom.center {
+	margin: 15px auto 0;
+	width: 20%;
+}	
+	
+/***************************
+	support End here
+*****************************/		
+	
+	
+	
+/***************************
+	About section start
+*****************************/	
+.about_sec {
+	padding: 0 0 40px 0;
+	overflow: hidden;
+}
+.about_sec .wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}	
+.about_sec .about_text {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+	margin-bottom: 50px;
+}
+.about_sec .about_pic {
+	width: 364px;
+	height: 444px;
+	margin-left: 0;
+}	
+/***************************
+	About section End
+*****************************/
+/***************************
+	services_sec start here
+*****************************/
+.services {
+	height: auto;
+	padding: 40px 0;
+	background-image: none;
+	background-color: #e9e9ea;
+}
+.services ul {
+	display: flex;
+	flex-direction: column;
+	margin-top: 30px;
+	flex-wrap: wrap;
+}	
+.services ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+	margin-top: 30px;
+}	
+.services ul li:nth-child(2) {
+    margin-top: 30px;
+}	
+/***************************
+	services_sec End here
+*****************************/	
+
+/***************************
+	quote start  here
+*****************************/
+.quote {
+	padding: 30px 0;
+	background-image: none;
+	background-color: #424242;
+	height: auto ;
+}	
+.quote ul {
+	margin-top: 0px;
+}	
+.quote ul li h3 {
+	font-size: 20px;
+	color: #fff;
+	font-weight: 300;
+}
+.quote ul li a {
+	padding: 10px 20px;
+	font-size: 15px;
+}	
+/***************************
+	quote End  here
+*****************************/	
+	
+/***************************
+Infrastructure start  here
+*****************************/
+.infrastructure {
+	padding: 40px 0;
+	overflow: hidden;
+}	
+	
+.infrastructure .infrastructure_details {
+	display: flex;
+	padding: 30px 0 0 0;
+	background: none;
+}
+	
+.infrastructure .infrastructure_details ul {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	width: 100%;
+	margin-right: 0;
+}	
+.infrastructure .infrastructure_details ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 30px;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	flex-direction: row-reverse;
+}	
+	
+.infrastructure .infrastructure_details ul li:first-child {
+	margin-right: 0;
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+	padding: 30px;
+	border-radius: 5px;
+}	
+.infrastructure .infrastructure_details ul li:last-child {
+	margin-right: 0;
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+	padding: 30px;
+	border-radius: 5px;
+}	
+	
+.infrastructure .infrastructure_details ul li .infrastructure_details_text {
+	overflow: hidden;
+	margin-left: 50px;
+	text-align: left;
+}
+.infrastructure .infrastructure_details ul:last-child li:first-child {
+	margin-left: 0;
+	margin-bottom: 11px;
+	justify-content: flex-end;
+}	
+.infrastructure .infrastructure_details ul:last-child li:last-child {
+	margin-left: 0;
+	margin-top: 10px;
+	justify-content: flex-end;
+}
+	
+/***************************
+Infrastructure End  here
+*****************************/		
+/***************************
+	Project End  here
+*****************************/
+.Project ul {
+	margin-top: 20px;
+}	
+	
+	
+/***************************
+	Project start  here
+*****************************/	
+	
+
+/***************************
+	contact  start  here
+*****************************/	
+.contact {
+	padding: 40px 0;
+	overflow: hidden;
+}
+.contact ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+	flex-wrap: wrap;
+	margin-top: 30px;
+}
+	
+.contact ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+}	
+	
+.contact ul li:last-child {
+	margin-right: 0;
+	width: 100%;
+	float: 0 0 100%;
+}	
+	
+.contact ul li ul li {
+	width: 47%;
+	flex: 0 0 47%;
+	margin-right: 20px;
+}
+.contact ul li:last-child .map {
+	overflow: hidden;
+	margin-top: 30px;
+}	
+/***************************
+	contact  End  here
+*****************************/	
+	
+
+	
+	
+/***************************
+	Footer start
+*****************************/	
+.footer {
+    padding: 40px 0;
+}	
+.footer ul li {
+	text-align: left;
+	width: auto;
+	margin-right: 0;
+	vertical-align: top;
+	display: block;
+	margin-bottom: 40px;
+}
+.footer ul li:first-child {
+	margin-right: 0;
+}	
+.contact_us {
+	margin-bottom: 0 !important;
+}	
+/***************************
+	Footer End
+*****************************/	
+	
+}
+
+@media only screen and (min-width:321px) and (max-width:480px) {
+ 
+		
+	 .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	
+/***************************
+	Top_header css End
+*****************************/
+	
+	
+.top_header .wrapper {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}	
+.top_header_left {
+	display: none;
+}
+.top_header .top_header_right {
+	margin-left: 0;
+}	
+.top_header .top_header_left ul, .top_header .top_header_right ul {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}	
+.top_header .top_header_right ul li:first-child {
+	display: none;
+}	
+	
+.top_header .top_header_right ul li {
+    margin: 0 10px;
+}
+.top_header .top_header_right ul li i {
+	margin-right: 3px;
+}	
+.top_header .top_header_right ul li::after {
+	display: none;
+}
+/***************************
+	Top_header css End
+*****************************/	
+	
+/***************************
+	Nav header css START
+*****************************/	
+.manu_header {
+	padding: 14px 0;
+	position: relative;
+}	
+#header {
+  padding: 0 0 0 !important;
+  float: right !important;
+  margin-left: 0 !important;		
+}
+
+.manu_header .manu_header_inner .logo {
+    float: left;
+    width: 150px !important;
+    padding-top: 0;
+}
+	
+.manu_header .manu_header_inner .logo img {
+	width: 100%;
+}	
+.manu_header.scrolled .manu_header_inner .logo {
+    padding: 0 0 0 0;
+}
+.manu_header.scrolled {
+	padding: 14px 0;
+}	
+
+/***************************
+	Nav header css eND
+*****************************/		
+/***************************
+		Banner start here
+*****************************/	
+
+.banner_home img {
+	margin: 0 0 0 -390px;
+	width: 710px;
+}	
+.banner_home::before {
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.banner_home .captionBox {
+	position: absolute;
+	width: 100%;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 11;
+}
+	
+.banner_home .caption {
+	padding: 0;
+	margin: 0;
+	width: auto;
+}
+	
+h3.banner_home_heading span {
+	display: block;
+	font-size: 20px;
+	color: #fff;
+	font-weight: 800;
+	line-height: 20px;
+}
+h3.banner_home_heading {
+	font-size: 15px;
+	line-height: 76px;
+}	
+.banner_buttom {
+	padding: 13px 14px;
+	font-size: 13px;
+	margin-top: 10px;
+}
+	
+/***************************
+		Banner eND here
+*****************************/
+/***************************
+		heading start here
+*****************************/
+h2.heading_center {
+	font-size: 20px;
+}	
+h2.heading_left {
+	text-align: left;
+	font-size: 20px;
+}	
+	
+/***************************
+		heading eND here
+*****************************/	
+	
+/***************************
+	support start here
+*****************************/
+.support {
+	padding: 30px 0;
+	overflow: hidden;
+}	
+.support ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+	margin-top: 0;
+}
+	
+	
+.support ul li {
+	width: 100%;
+	flex: 0 0 100%;
+	margin-right: 0;
+	box-sizing: border-box;
+	margin-bottom: 20px;
+}
+.banner_buttom.center {
+	margin: 0px auto 0;
+	width: 30%;
+	padding: 11px 28px;
+}
+		
+	
+/***************************
+	support End here
+*****************************/		
+	
+	
+	
+/***************************
+	About section start
+*****************************/	
+.about_sec {
+	padding: 0 0 40px 0;
+	overflow: hidden;
+}
+.about_sec .wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}	
+.about_sec .about_text {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+	margin-bottom: 50px;
+}
+.about_sec .about_text p {
+	padding: 10px 0 10px 0;
+}	
+	
+.about_sec .about_pic {
+	width: auto;
+	height: auto;
+	margin-left: 0;
+	margin-bottom: 0;
+}
+	
+	
+/***************************
+	About section End
+*****************************/
+/***************************
+	services_sec start here
+*****************************/
+.services {
+	height: auto;
+	padding: 40px 0;
+	background-image: none;
+	background-color: #e9e9ea;
+}
+.services ul {
+	display: flex;
+	flex-direction: column;
+	margin-top: 0;
+	flex-wrap: wrap;
+}	
+.services ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+	margin-top: 30px;
+}	
+.services ul li:nth-child(2) {
+    margin-top: 30px;
+}	
+.services ul li .services_icon {
+	width: 120px;
+	height: 120px;
+}	
+.services ul li .services_icon img {
+	width: 50px;
+	height: 50px;
+}	
+/***************************
+	services_sec End here
+*****************************/	
+
+/***************************
+	quote start  here
+*****************************/
+.quote {
+	padding: 20px 0;
+	background-image: none;
+	background-color: #424242;
+	height: auto ;
+}	
+.quote ul {
+	flex-direction: column;
+	margin-top: 0px;
+}	
+.quote ul li h3 {
+	font-size: 20px;
+	color: #fff;
+	font-weight: 300;
+}
+.quote ul li a {
+	padding: 10px 20px;
+	font-size: 15px;
+	display: block;
+	margin: 10px 0;
+}	
+	
+	
+/***************************
+	quote End  here
+*****************************/	
+	
+/***************************
+Infrastructure start  here
+*****************************/
+.infrastructure {
+	padding: 40px 0;
+	overflow: hidden;
+}	
+	
+.infrastructure .infrastructure_details {
+	display: flex;
+	padding: 30px 0 0 0;
+	background: none;
+}
+	
+.infrastructure .infrastructure_details ul {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	width: 100%;
+	margin-right: 0;
+}	
+.infrastructure .infrastructure_details ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 30px;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	flex-direction: column-reverse;
+}
+.infrastructure .infrastructure_details ul li:first-child {
+	margin-right: 0;
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+	padding: 30px;
+	border-radius: 5px;
+}	
+.infrastructure .infrastructure_details ul li:last-child {
+	margin-right: 0;
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+	padding: 30px;
+	border-radius: 5px;
+}	
+	
+.infrastructure .infrastructure_details ul li .infrastructure_details_text {
+	overflow: hidden;
+	margin-left: 0;
+	text-align: center;
+	margin-right: 0;
+	margin-top: 20px;
+}
+.infrastructure .infrastructure_details ul:last-child li:first-child {
+	margin-left: 0;
+	margin-bottom: 11px;
+	justify-content: flex-end;
+}	
+.infrastructure .infrastructure_details ul:last-child li:last-child {
+	margin-left: 0;
+	margin-top: 10px;
+	justify-content: flex-end;
+}
+.infrastructure .infrastructure_details ul:last-child li {
+	margin-right: 0;
+	flex-direction: column-reverse;
+}
+	
+.infrastructure .infrastructure_details ul:last-child li .infrastructure_details_text {
+	text-align: center;
+	margin-left: 0;
+	margin-right: 0;
+}	
+/***************************
+Infrastructure End  here
+*****************************/		
+/***************************
+	Project End  here
+*****************************/
+.Project ul {
+	margin-top: 20px;
+}	
+	
+.Project ul li {
+	width: 50%;
+	flex: 0 0 50%;
+}	
+	
+.text {
+	color: white;
+	font-size: 14px;
+}	
+/***************************
+	Project start  here
+*****************************/	
+	
+
+/***************************
+	contact  start  here
+*****************************/	
+.contact {
+	padding: 40px 0;
+	overflow: hidden;
+}
+.contact ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+	flex-wrap: wrap;
+	margin-top: 30px;
+}
+	
+.contact ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+}	
+	
+.contact ul li:last-child {
+	margin-right: 0;
+	width: 100%;
+	float: 0 0 100%;
+}	
+	
+
+	
+.contact ul li ul li {
+	width: 100%;
+	flex: 0 0 auto;
+	margin-right: 0;
+}
+	
+.contact input[type="submit"] {
+	width: auto;
+	padding: 14px 30px;
+}	
+	
+.contact ul li:last-child .map {
+	overflow: hidden;
+	margin-top: 30px;
+}	
+.contact ul li:last-child .map iframe {
+	width: 100%;
+}
+	
+	
+/***************************
+	contact  End  here
+*****************************/	
+	
+
+	
+	
+/***************************
+	Footer start
+*****************************/	
+.footer {
+    padding: 40px 0;
+}	
+.footer ul li {
+	text-align: left;
+	width: auto;
+	margin-right: 0;
+	vertical-align: top;
+	display: block;
+	margin-bottom: 40px;
+}
+.footer ul li:first-child {
+	margin-right: 0;
+}	
+.contact_us {
+	margin-bottom: 0 !important;
+}	
+/***************************
+	Footer End
+*****************************/			
+	
+}
+
+@media only screen and (max-width:320px) {
+		
+.wrapper {
+        width: auto;
+        padding: 0 10px;
+  }
+	
+/***************************
+	Top_header css End
+*****************************/
+	
+	
+.top_header .wrapper {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}	
+.top_header_left {
+	display: none;
+}
+.top_header .top_header_right {
+	margin-left: 0;
+}	
+.top_header .top_header_left ul, .top_header .top_header_right ul {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}	
+.top_header .top_header_right ul li:first-child {
+	display: none;
+}	
+	
+.top_header .top_header_right ul li {
+    margin: 0 10px;
+}
+.top_header .top_header_right ul li i {
+	margin-right: 3px;
+}	
+.top_header .top_header_right ul li::after {
+	display: none;
+}
+/***************************
+	Top_header css End
+*****************************/	
+	
+/***************************
+	Nav header css START
+*****************************/	
+.manu_header {
+	padding: 14px 0;
+	position: relative;
+}	
+#header {
+  padding: 0 0 0 !important;
+  float: right !important;
+  margin-left: 0 !important;		
+}
+
+.manu_header .manu_header_inner .logo {
+    float: left;
+    width: 150px !important;
+    padding-top: 0;
+}
+	
+.manu_header .manu_header_inner .logo img {
+	width: 100%;
+}	
+.manu_header.scrolled .manu_header_inner .logo {
+    padding: 0 0 0 0;
+}
+.manu_header.scrolled {
+	padding: 14px 0;
+}	
+
+/***************************
+	Nav header css eND
+*****************************/		
+/***************************
+		Banner start here
+*****************************/	
+
+.banner_home img {
+	margin: 0 0 0 -390px;
+	width: 710px;
+}	
+.banner_home::before {
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.banner_home .captionBox {
+	position: absolute;
+	width: 100%;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 11;
+}
+	
+.banner_home .caption {
+	padding: 0;
+	margin: 0;
+	width: auto;
+}
+	
+h3.banner_home_heading span {
+	display: block;
+	font-size: 20px;
+	color: #fff;
+	font-weight: 800;
+	line-height: 20px;
+}
+h3.banner_home_heading {
+	font-size: 15px;
+	line-height: 76px;
+}	
+.banner_buttom {
+	padding: 13px 14px;
+	font-size: 13px;
+	margin-top: 10px;
+}
+	
+/***************************
+		Banner eND here
+*****************************/
+/***************************
+		heading start here
+*****************************/
+h2.heading_center {
+	font-size: 20px;
+}	
+h2.heading_left {
+	text-align: left;
+	font-size: 20px;
+}	
+	
+/***************************
+		heading eND here
+*****************************/	
+	
+/***************************
+	support start here
+*****************************/
+.support {
+	padding: 30px 0;
+	overflow: hidden;
+}	
+.support ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+	margin-top: 0;
+}
+	
+	
+.support ul li {
+	width: 100%;
+	flex: 0 0 100%;
+	margin-right: 0;
+	box-sizing: border-box;
+	margin-bottom: 20px;
+}
+.banner_buttom.center {
+	margin: 0px auto 0;
+	width: 30%;
+	padding: 11px 28px;
+}	
+	
+/***************************
+	support End here
+*****************************/		
+	
+	
+	
+/***************************
+	About section start
+*****************************/	
+.about_sec {
+	padding: 0 0 40px 0;
+	overflow: hidden;
+}
+.about_sec .wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}	
+.about_sec .about_text {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+	margin-bottom: 50px;
+}
+.about_sec .about_text p {
+	padding: 10px 0 10px 0;
+}	
+	
+.about_sec .about_pic {
+	width: auto;
+	height: auto;
+	margin-left: 0;
+	margin-bottom: 0;
+}
+	
+	
+/***************************
+	About section End
+*****************************/
+/***************************
+	services_sec start here
+*****************************/
+.services {
+	height: auto;
+	padding: 40px 0;
+	background-image: none;
+	background-color: #e9e9ea;
+}
+.services ul {
+	display: flex;
+	flex-direction: column;
+	margin-top: 0;
+	flex-wrap: wrap;
+}	
+.services ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+	margin-top: 30px;
+}	
+.services ul li:nth-child(2) {
+    margin-top: 30px;
+}	
+.services ul li .services_icon {
+	width: 120px;
+	height: 120px;
+}	
+.services ul li .services_icon img {
+	width: 50px;
+	height: 50px;
+}	
+/***************************
+	services_sec End here
+*****************************/	
+
+/***************************
+	quote start  here
+*****************************/
+.quote {
+	padding: 20px 0;
+	background-image: none;
+	background-color: #424242;
+	height: auto ;
+}	
+.quote ul {
+	flex-direction: column;
+	margin-top: 0px;
+}	
+.quote ul li h3 {
+	font-size: 20px;
+	color: #fff;
+	font-weight: 300;
+}
+.quote ul li a {
+	padding: 10px 20px;
+	font-size: 15px;
+	display: block;
+	margin: 10px 0;
+}	
+	
+	
+/***************************
+	quote End  here
+*****************************/	
+	
+/***************************
+Infrastructure start  here
+*****************************/
+.infrastructure {
+	padding: 40px 0;
+	overflow: hidden;
+}	
+	
+.infrastructure .infrastructure_details {
+	display: flex;
+	padding: 30px 0 0 0;
+	background: none;
+}
+	
+.infrastructure .infrastructure_details ul {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	width: 100%;
+	margin-right: 0;
+}	
+.infrastructure .infrastructure_details ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 30px;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	flex-direction: column-reverse;
+}
+.infrastructure .infrastructure_details ul li:first-child {
+	margin-right: 0;
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+	padding: 30px;
+	border-radius: 5px;
+}	
+.infrastructure .infrastructure_details ul li:last-child {
+	margin-right: 0;
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+	padding: 30px;
+	border-radius: 5px;
+}	
+	
+.infrastructure .infrastructure_details ul li .infrastructure_details_text {
+	overflow: hidden;
+	margin-left: 0;
+	text-align: center;
+	margin-right: 0;
+	margin-top: 20px;
+}
+.infrastructure .infrastructure_details ul:last-child li:first-child {
+	margin-left: 0;
+	margin-bottom: 11px;
+	justify-content: flex-end;
+}	
+.infrastructure .infrastructure_details ul:last-child li:last-child {
+	margin-left: 0;
+	margin-top: 10px;
+	justify-content: flex-end;
+}
+.infrastructure .infrastructure_details ul:last-child li {
+	margin-right: 0;
+	flex-direction: column-reverse;
+}
+	
+.infrastructure .infrastructure_details ul:last-child li .infrastructure_details_text {
+	text-align: center;
+	margin-left: 0;
+	margin-right: 0;
+}	
+/***************************
+Infrastructure End  here
+*****************************/		
+/***************************
+	Project End  here
+*****************************/
+.Project ul {
+	margin-top: 20px;
+}	
+	
+.Project ul li {
+	width: 50%;
+	flex: 0 0 50%;
+}	
+	
+.text {
+	color: white;
+	font-size: 14px;
+}	
+/***************************
+	Project start  here
+*****************************/	
+	
+
+/***************************
+	contact  start  here
+*****************************/	
+.contact {
+	padding: 40px 0;
+	overflow: hidden;
+}
+.contact ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+	flex-wrap: wrap;
+	margin-top: 30px;
+}
+	
+.contact ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+}	
+	
+.contact ul li:last-child {
+	margin-right: 0;
+	width: 100%;
+	float: 0 0 100%;
+}	
+	
+
+	
+.contact ul li ul li {
+	width: 100%;
+	flex: 0 0 auto;
+	margin-right: 0;
+}
+	
+.contact input[type="submit"] {
+	width: auto;
+	padding: 14px 30px;
+}	
+	
+.contact ul li:last-child .map {
+	overflow: hidden;
+	margin-top: 30px;
+}	
+.contact ul li:last-child .map iframe {
+	width: 100%;
+}	
+	
+/***************************
+	contact  End  here
+*****************************/	
+	
+
+	
+	
+/***************************
+	Footer start
+*****************************/	
+.footer {
+    padding: 40px 0;
+}	
+.footer ul li {
+	text-align: left;
+	width: auto;
+	margin-right: 0;
+	vertical-align: top;
+	display: block;
+	margin-bottom: 40px;
+}
+.footer ul li:first-child {
+	margin-right: 0;
+}	
+.contact_us {
+	margin-bottom: 0 !important;
+}	
+/***************************
+	Footer End
+*****************************/		
+		
+}
